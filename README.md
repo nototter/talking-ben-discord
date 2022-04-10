@@ -10,3 +10,5 @@ so i put this public
 this uses discord.py (NOT REWRITE)
 
 please give credit if you are gonna use this in a discord server to otter#8249 or @nototter on tiktok
+
+(i am bad at grammar)
